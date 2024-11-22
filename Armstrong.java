@@ -1,5 +1,3 @@
-package org.practice;
-
 public class Armstrong {
     public static boolean isArmstrong(int num)
     {
