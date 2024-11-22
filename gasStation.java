@@ -1,5 +1,3 @@
-package org.practice;
-
 public class gasStation {
     public int canCompleteCircuit(int[] gas, int[] cost) {
         int start=0, net =0, total=0;
