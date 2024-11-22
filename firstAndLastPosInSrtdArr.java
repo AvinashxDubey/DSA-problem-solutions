@@ -1,5 +1,3 @@
-package org.practice;
-
 import java.util.Arrays;
 
 class firstAndLastPosInArray{
